@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="main_activity_title">Password Generator</string>
+</resources>
