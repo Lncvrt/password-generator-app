@@ -15,8 +15,10 @@
         "title": "Password Generator",
         "width": 580,
         "height": 580,
+        "maxWidth": 1280,
         "maxHeight": 720,
-        "maxWidth": 1280
+        "minWidth": 580,
+        "minHeight": 580
       }
     ],
     "security": {
