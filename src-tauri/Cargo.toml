@@ -1,6 +1,6 @@
 [package]
 name = "password-generator"
-version = "1.0.1-preview"
+version = "1.0.1"
 description = "A insanely basic app, for generating passwords"
 authors = ["Lncvrt"]
 edition = "2021"
