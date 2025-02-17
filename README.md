@@ -1,6 +1,6 @@
 # Password Generator
 
-A insanely basic app, for generating passwords (believe it or not).
+A basic password generator app.
 
 ## Platform Support
 
